@@ -10,7 +10,6 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about **java, spring, python, C#, HTML, CSS**
 
 - 🔭 I’m currently working on Spring boot
-- 🌱 I’m currently learning Spring boot
 - 👯 I’m looking to collaborate on Java- spring projects
 - 📫 How to reach me: Telegram ID >>> @ammir_h
 
